@@ -33,10 +33,6 @@ cd frontend
 npm install
 npm run dev
 ```
-
-Open the application in your browser:
-http://localhost:5173
-
 Enter engine parameters and view:
 - Real-time graphs
 - Anomaly detection results
