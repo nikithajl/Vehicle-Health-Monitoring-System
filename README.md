@@ -23,36 +23,24 @@ pip install -r requirements.txt
 ```
 ## Usage
 Start the backend server:
+```
 cd backend
 python Live.py
-
+```
 Start the frontend server:
+```
 cd frontend
 npm install
 npm run dev
+```
 
 Open the application in your browser:
 http://localhost:5173
 
 Enter engine parameters and view:
-Real-time graphs
-Anomaly detection results
-Engine health status
-
-## Folder Structure
-Vehicle-Health-Monitoring-System/
-│
-├── backend/
-│   ├── Live.py
-│   ├── engine_rf_model.pkl
-│   └── requirements.txt
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-└── README.md
+- Real-time graphs
+- Anomaly detection results
+- Engine health status
 
 ## Author
 Nikitha
