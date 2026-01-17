@@ -20,8 +20,8 @@ A web-based system that analyzes real-time vehicle sensor data using machine lea
 git clone https://github.com/nikithajl/Vehicle-Health-Monitoring-System.git
 cd Vehicle-Health-Monitoring-System
 pip install -r requirements.txt
-
-Usage
+```
+## Usage
 Start the backend server:
 cd backend
 python Live.py
@@ -34,12 +34,12 @@ npm run dev
 Open the application in your browser:
 http://localhost:5173
 
-
 Enter engine parameters and view:
 Real-time graphs
 Anomaly detection results
 Engine health status
 
+## Folder Structure
 Vehicle-Health-Monitoring-System/
 │
 ├── backend/
@@ -54,3 +54,5 @@ Vehicle-Health-Monitoring-System/
 │
 └── README.md
 
+## Author
+Nikitha
