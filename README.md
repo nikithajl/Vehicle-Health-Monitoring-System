@@ -54,5 +54,3 @@ Vehicle-Health-Monitoring-System/
 │
 └── README.md
 
-Author
-Nikitha
