@@ -1,0 +1,10 @@
+flask
+flask-cors
+flask-socketio
+pandas
+numpy
+joblib
+openpyxl
+eventlet
+scikit-learn
+shap
